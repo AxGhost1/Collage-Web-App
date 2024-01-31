@@ -1,6 +1,6 @@
 body
 {
-    background: #cfcece;
+    background: black;
 }
 h1{
     font-family: cursive;
@@ -10,7 +10,10 @@ h1{
 
 h4
 {
-    color:red;
+    color:green;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
 }
 
 #camera
